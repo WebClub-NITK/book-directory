@@ -1,6 +1,8 @@
-# Book Directory
+# Web Development with Express.js 2022
 
-A basic express app to store books and their authors, and search among the added books.
+This repo is for the assignment submission.
+
+Book Directory - A basic express app to store books and their authors, and search among the added books.
 
 ## Setup Instructions
 
